@@ -1,0 +1,31 @@
+=====================================
+      NETWORK HEALTH CHECK REPORT
+=====================================
+
+SERVER INFORMATION
+------------------
+Hostname      : IG-PAV-X360
+Current User  : IG
+Date & Time   : Mon, Jun  8, 2026  2:48:48 PM
+
+NETWORK INFORMATION
+-------------------
+IP Address      : 
+Default Gateway : 
+DNS Server      : 
+
+INTERNET CONNECTIVITY
+---------------------
+Internet Connectivity : DOWN
+
+DNS RESOLUTION
+--------------
+DNS Resolution : WORKING
+
+WEBSITE AVAILABILITY
+--------------------
+google.com : DOWN
+github.com : DOWN
+amazon.com : DOWN
+
+Report saved to: network_report.txt
